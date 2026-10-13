@@ -1,6 +1,28 @@
 # Data Structures and Algorithms
-[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-[![Maintenance](https://img.shields.io/badge/Maintained-Yes-brightgreen)]()
-[![PRs Welcome](https://img.shields.io/badge/PRs-Not%20accepted-red)]()
 
-Backup for Data Structures and Algorithms course.
+Esercizi del percorso di laurea EPICODE su complessità, strutture dati e algoritmi in Python.
+
+Parte di [**EPICODE Bachelor**](../README.md), nella cartella `data-structures-and-algorithms/`.
+
+## Tecnologie
+
+Python.
+
+## Struttura e utilizzo
+
+Gli esempi sono in [`basics/`](basics/): notazione Big O, stack, queue e alberi. Dalla radice della raccolta:
+
+```sh
+cd data-structures-and-algorithms
+python3 basics/big-o-notation.py
+python3 basics/stacks.py
+python3 basics/queues.py
+```
+
+Gli esempi sugli alberi sono in [`basics/trees/`](basics/trees/).
+
+## Cronologia e licenza
+
+Progetto originariamente ospitato in [`andbardii/data-structures-and-algorithms`](https://github.com/andbardii/data-structures-and-algorithms), ora archivio storico. La cronologia originale è conservata nella raccolta; il tag `migration/data-structures-and-algorithms` identifica l’ultimo commit importato.
+
+Vedi la [documentazione della migrazione](../MIGRATION.md) e la [licenza del progetto](LICENSE).
