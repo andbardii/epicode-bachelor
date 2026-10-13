@@ -21,8 +21,6 @@ python3 basics/queues.py
 
 Gli esempi sugli alberi sono in [`basics/trees/`](basics/trees/).
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/data-structures-and-algorithms`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/data-structures-and-algorithms` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).

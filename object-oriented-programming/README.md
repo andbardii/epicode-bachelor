@@ -22,8 +22,6 @@ java firsty.Main
 
 È richiesto un JDK disponibile nel terminale.
 
-## Cronologia e licenza
+## Licenza
 
-Progetto originariamente ospitato in `andbardii/object-oriented-programming`, ora integrato in questa raccolta. Usa questa raccolta per consultare e modificare il progetto. La cronologia originale è conservata nella raccolta; il tag `migration/object-oriented-programming` identifica l’ultimo commit importato.
-
-Vedi la [cronologia della raccolta](../README.md#provenienza-e-cronologia) e la [licenza del progetto](LICENSE).
+Vedi la [licenza del progetto](LICENSE).
