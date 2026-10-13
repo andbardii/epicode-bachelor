@@ -48,4 +48,4 @@ git log -- object-oriented-programming/
 
 Prima dell’importazione i file erano nella radice delle singole repository: un filtro sul nuovo percorso non mostra da solo tutti i commit precedenti. Usa il tag di migrazione per consultarli con i percorsi originali.
 
-Le repository sorgenti sono state eliminate dopo la verifica dell’importazione. Un’importazione Git conserva commit e file, ma non trasferisce issue, pull request e release su GitHub. Le licenze di ciascun progetto sono conservate.
+Questa raccolta è la posizione corrente dei progetti importati. Un’importazione Git conserva commit e file, ma non trasferisce issue, pull request e release su GitHub. Le licenze di ciascun progetto sono conservate.
